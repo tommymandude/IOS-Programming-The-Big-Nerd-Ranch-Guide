@@ -1,5 +1,4 @@
-IOS Programming 
-The Big Nerd Ranch Guide
+IOS Programming The Big Nerd Ranch Guide
 ========================================
 
 Chapter challenges 
